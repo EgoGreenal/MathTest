@@ -1,0 +1,11 @@
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\bin\Debug\MathTest.exe.config
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\bin\Debug\MathTest.exe
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\bin\Debug\MathTest.pdb
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.csprojAssemblyReference.cache
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.Form1.resources
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.Properties.Resources.resources
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.csproj.GenerateResource.cache
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.csproj.CoreCompileInputs.cache
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.exe
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.pdb
+C:\Users\xyz\Desktop\VB\MathTest\MathTest\MathTest\obj\Debug\MathTest.csproj.ResolveComReference.cache
